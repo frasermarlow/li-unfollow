@@ -5,8 +5,6 @@ A simple javascript project to mass-unfollow everybody on LinkedIn
 
 Have you ever dreamt of factory-refreshing your LinkedIn feed?  This project shows you how.
 
-<img src="https://github.com/user-attachments/assets/d7849162-0569-454e-b684-690433dd9e23" alt="drawing" width="200"/>
+<img src="https://github.com/user-attachments/assets/d7849162-0569-454e-b684-690433dd9e23" alt="drawing" width="400"/>
 
-![factory-refreshed-linkedin-feed](https://github.com/user-attachments/assets/d7849162-0569-454e-b684-690433dd9e23)
-
-![you-are-not-following-anyone-on-linkedin](https://github.com/user-attachments/assets/0fa5e43b-332e-4206-bce1-0dd462509b60)
+<img src="https://github.com/user-attachments/assets/d7849162-0569-454e-b684-690433dd9e23](https://github.com/user-attachments/assets/0fa5e43b-332e-4206-bce1-0dd462509b60)" alt="You are not following anyone on Linkedin" width="400"/>
