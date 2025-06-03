@@ -7,4 +7,4 @@ Have you ever dreamt of factory-refreshing your LinkedIn feed?  This project sho
 
 <img src="https://github.com/user-attachments/assets/d7849162-0569-454e-b684-690433dd9e23" alt="drawing" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/d7849162-0569-454e-b684-690433dd9e23](https://github.com/user-attachments/assets/0fa5e43b-332e-4206-bce1-0dd462509b60)" alt="You are not following anyone on Linkedin" width="400"/>
+<img src="https://github.com/user-attachments/assets/0fa5e43b-332e-4206-bce1-0dd462509b60" alt="You are not following anyone on Linkedin" width="400"/>
