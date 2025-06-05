@@ -82,3 +82,7 @@ Well, ype, I did for a few days.  And then Linkedin decided that was not accepta
   Your browser does not support the video tag.
 </video>
 </p>
+
+
+https://github.com/user-attachments/assets/a2310d87-434e-4ae5-9b73-6cf579888301
+
