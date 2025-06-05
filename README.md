@@ -72,3 +72,9 @@ This "unfollow-from-feed" approach will work for folks who have recently posted 
 
 ## So, we now have a nice clean feed, right?    
 Well, ype, I did for a few days.  And then Linkedin decided that was not acceptable and started to populate my feed with a bunch of `suggested` posts.  But that is fine.  All we need to do if find a few valuable people to follow, opt in to their posts, and our feed will again become a valuable resource for networking and staying connected.
+
+
+
+https://github.com/user-attachments/assets/b2c21752-f080-4bb4-95b7-80f8572783a9
+
+
