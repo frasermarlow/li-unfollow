@@ -74,15 +74,15 @@ This "unfollow-from-feed" approach will work for folks who have recently posted 
 Well, ype, I did for a few days.  And then Linkedin decided that was not acceptable and started to populate my feed with a bunch of `suggested` posts.  But that is fine.  All we need to do if find a few valuable people to follow, opt in to their posts, and our feed will again become a valuable resource for networking and staying connected.
 
 <p align="center">
+<figure>
 <video
-  src="https://github.com/user-attachments/assets/b2c21752-f080-4bb4-95b7-80f8572783a9"
+  src="https://github.com/user-attachments/assets/a2310d87-434e-4ae5-9b73-6cf579888301"
   width="240px"            <!-- pixels only -->
   controls               <!-- show play bar -->
 >
   Your browser does not support the video tag.
 </video>
+<br/>
+<figcaption><em>The kind of LinkedIn Posts I can do without...</em></figcaption></figure>
 </p>
-
-
-https://github.com/user-attachments/assets/a2310d87-434e-4ae5-9b73-6cf579888301
 
