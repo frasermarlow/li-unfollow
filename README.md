@@ -76,7 +76,7 @@ Well, ype, I did for a few days.  And then Linkedin decided that was not accepta
 <p align="center">
 <video
   src="https://github.com/user-attachments/assets/b2c21752-f080-4bb4-95b7-80f8572783a9"
-  width="480"            <!-- pixels only -->
+  width="240"            <!-- pixels only -->
   controls               <!-- show play bar -->
 >
   Your browser does not support the video tag.
