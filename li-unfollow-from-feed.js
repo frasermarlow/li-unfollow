@@ -51,11 +51,9 @@
     stuck = (atBottom && nothingNew) ? stuck + 1 : 0;
 
     if (stuck >= stuckMax) {
-      console.log('🔄 Reloading for a fresh batch…');
+      console.log('🔄 Scrolling back up and down for new posts…');
       window.scrollTo(0, 0);
-      location.reload();
-      await new Promise(r => addEventListener('load', r, { once: true }));
-      await randDelay(1500, 2500);        // ⏱ let feed settle
+      await randDelay(1500, 2500);
       stuck = 0;
     }
   }
