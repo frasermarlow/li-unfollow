@@ -21,12 +21,12 @@ This project lets you unfollow everybody on LinkedIn. Consider this a factor ref
 To unfollow everybody, authenticate into your LinkedIn account, then:
 
 ### Unfollow from your "followers" list
-This sounds counter intuitive, but the first step is to go to the page that lists all the people who follow _you_, namely [this page](https://www.linkedin.com/mynetwork/network-manager/people-follow/followers/) (once you are logged in to LinkedIn).  Once there, scroll down (a lot) to load your entire list of followers.  LinkedIn will only let you load 1,000 most recent connections that follow you, but this is the fastest way I have found to handle a big batch of followers in one go.
+This sounds counterintuitive, but the first step is to go to the page that lists all the people who follow _you_, namely [this page](https://www.linkedin.com/mynetwork/network-manager/people-follow/followers/) (once you are logged in to LinkedIn).  Once there, scroll down (a lot) to load your entire list of followers.  LinkedIn will only let you load 1,000 most recent connections that follow you, but this is the fastest way I have found to handle a big batch of followers in one go.
 
 Once you have loaded all 1,000 profiles, do one of the following:
 - right click on the webpage and select 'inspect', or...
 - press F12, or...
-- Click on the elipsis in the top right of the browser next to your profile icon, and select `more tools` → `developer tools`.
+- Click on the ellipsis in the top right of the browser next to your profile icon, and select `more tools` → `developer tools`.
 
 In the browser dev tools, open the console. Here, you can copy the code from `li-unfollow-from-followers-list.js` and paste it into your console, and hit enter.  The script will run through all 1,000 contacts and *unfollow them all*.
 
@@ -34,7 +34,7 @@ So you have now taken a good chunk of followers off your list.  The best way to 
 
 ### Unfollow from the feed
 
-The second script (found in `li-unfollow-from-feed.js`) will take care of this.  Just navigate to [your feed page](https://www.linkedin.com/feed/) and repeat the process above (open the developer tools, navitage to the console tab, paste in the code, press `enter`).  Let it run for a while, then shut down the tab.
+The second script (found in `li-unfollow-from-feed.js`) will take care of this.  Just navigate to [your feed page](https://www.linkedin.com/feed/) and repeat the process above (open the developer tools, navigate to the console tab, paste in the code, press `enter`).  Let it run for a while, then shut down the tab.
 
 This will clear out all the most active peple, but new folks will pop up over time (people will only pop up in your feed when they post or react to a post). For that purpose, you can create a 'Bookmarklet' (essentially a bookmark that acts as a function call).  See the `li-unfollow-from-feed-bookmarklet.js` file.  You just have to drop this into the `URL` field of a new bookmark, then click on that bookmark when you have your LinkedIn feed page open.
 
