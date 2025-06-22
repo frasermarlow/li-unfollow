@@ -32,7 +32,7 @@ In the browser dev tools, open the console. Here, you can copy the code from `li
 
 ### Unfollow from the feed
 
-So you have now taken a good chunk of followers off your list.  The best way to take care of the rest (and believe me, I have tried a bunch of approaches!) is to automate this process in your feed.  The second script (found in `li-unfollow-from-feed.js`) will take cre of this.  Just navigate to [your feed page](https://www.linkedin.com/feed/) and repeat the process above (open the developer tools, navitage to the console tab, paste in the code, press `enter`).  You may need to run this process a few times if you have a lot of people you are currently following.  
+So you have now taken a good chunk of followers off your list.  The best way to take care of the rest (and believe me, I have tried a bunch of approaches!) is to automate this process in your feed.  The second script (found in `li-unfollow-from-feed.js`) will take care of this.  Just navigate to [your feed page](https://www.linkedin.com/feed/) and repeat the process above (open the developer tools, navitage to the console tab, paste in the code, press `enter`).  You may need to run this process a few times if you have a lot of people you are currently following. For that purpose, you can create a 'Bookmarklet' (essentially a bookmark that acts as a function call).  See the `li-unfollow-from-feed-bookmarklet.js` file.  You just have to drop this into the `URL` field of a new bookmark, then click on that bookmark when you have your LinkedIn feed page open.
 
 ### Why should I trust this code?
 
