@@ -55,7 +55,11 @@ I used to be quite selective in terms of who I connected with on LinkedIn.  Then
 
 In the last few years, we have seen LinkedIn evolve into much more of a social network than a professional forum, right down to the short-form TikTok videos and desperate wannabe influencer tactics that plague many other platforms. This must have worked for the LinkedIn management team, as they have leaned in hard to make the whole experience way more 'social'.
 
+<figure>
+
 ![unwanted-video](https://github.com/user-attachments/assets/86abef39-e13a-4d03-a09b-544891dc4534)
+
+</figure>
 
 *Some LinkedIn posts I could do without...*
 
@@ -78,6 +82,6 @@ Yes, there is a page [found here](https://www.linkedin.com/mynetwork/network-man
 This "unfollow-from-feed" approach will work for folks who have recently posted or commented.  If you have a large (or a less active) network, some of the people you follow will not show up in your feed for a while.  So after a while, you might want to rerun the script and keep on purging out those few stragglers.
 
 ## So, we now have a nice clean feed, right?    
-Well, ype, I did for a few days.  And then Linkedin decided that was not acceptable and started to populate my feed with a bunch of `suggested` posts.  But that is fine.  All we need to do if find a few valuable people to follow, opt in to their posts, and our feed will again become a valuable resource for networking and staying connected.
+Well, yep, I did for a few days.  And then Linkedin decided that was not acceptable and started to populate my feed with a bunch of `suggested` posts.  But that is fine.  All we need to do if find a few valuable people to follow, opt in to their posts, and our feed will again become a valuable resource for networking and staying connected.
 
 
