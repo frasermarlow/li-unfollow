@@ -36,11 +36,11 @@ So you have now taken a good chunk of followers off your list.  The best way to 
 
 The second script (found in `li-unfollow-from-feed.js`) will take care of this.  Just navigate to [your feed page](https://www.linkedin.com/feed/) and repeat the process above (open the developer tools, navigate to the console tab, paste in the code, press `enter`).  Let it run for a while, then shut down the tab.
 
-This will clear out all the most active peple, but new folks will pop up over time (people will only pop up in your feed when they post or react to a post). For that purpose, you can create a 'Bookmarklet' (essentially a bookmark that acts as a function call).  See the `li-unfollow-from-feed-bookmarklet.js` file.  You just have to drop this into the `URL` field of a new bookmark, then click on that bookmark when you have your LinkedIn feed page open.
+This will clear out all the most active people, but new folks will pop up over time (people will only pop up in your feed when they post or react to a post). For that purpose, you can create a 'Bookmarklet' (essentially a bookmark that acts as a function call).  See the `li-unfollow-from-feed-bookmarklet.js` file.  You just have to drop this into the `URL` field of a new bookmark, then click on that bookmark when you have your LinkedIn feed page open.
 
 ### Why should I trust this code?
 
-You shouldn't.  As your mother no doubt told you "*don't take code from strangers!*".  Don't trust me or anybody else out there on the interwebs encouraging you to just load and run code in your browser, especially minified code (the compact type that is harder to figure out).
+You shouldn't.  As your mother no doubt told you, "*don't take code from strangers!*".  Don't trust me or anybody else out there on the interwebs encouraging you to just load and run code in your browser, especially minified code (the compact type that is harder to figure out).
 
 Instead, what you should do first is grab the code I am recommending you run and put it into your favourite LLM (Claude, ChatGPT, Gemini, etc.) with a prompt like "Explain to me what will happen if I run this code in my browser."  Feel free to ask the LLM if the code appears malicious in any way.
 
@@ -65,17 +65,17 @@ In the last few years, we have seen LinkedIn evolve into much more of a social n
 
 
 
-When LinkedIn leaned in to the Social Media aspect of the platform, they made each and every person you connect with somebody you follow.  The logic here is simple:
+When LinkedIn leaned into the Social Media aspect of the platform, they made each and every person you connect with somebody you follow.  The logic here is simple:
 - People you are connected with are people you can message, and show up in your search
-- People you follow are the ones who's activities on LinkedIn show up in your feed.
-- Linkedin will sell you off to advertisers based on which companies your connections follow.  Remember, LinkedIn is free, so *you are the product*.
+- People you follow are the ones whose activities on LinkedIn show up in your feed.
+- LinkedIn will sell you off to advertisers based on which companies your connections follow.  Remember, LinkedIn is free, so *you are the product*.
 
-Like many other users, I don't go to LinkedIn for the wedding photos, funny pet videos, and papsy motivational quotes.  It is what it is, but I wanted a way to opt out of following, without losing the connections.  
+Like many other users, I don't go to LinkedIn for the wedding photos, funny pet videos, and pappy motivational quotes.  It is what it is, but I wanted a way to opt out of following, without losing the connections.  
 
 It turns out, it's not that easy. LinkedIn lets you identify who you are connected with and sever those connections.  But there is no mechanism for mass-unfollowing without affecting the connections.
 
 ## What about the "My Network" -> "Following" page?
-Yes, there is a page [found here](https://www.linkedin.com/mynetwork/network-manager/people-follow/following/) which ostentibly shows you all the people you are following.  But there is a catch.  This is only the people *not in your connections* thay you follow.  So it will show you influencers and personalities you chose to follow.
+Yes, there is a page [found here](https://www.linkedin.com/mynetwork/network-manager/people-follow/following/) which shows you all the people you are following.  But there is a catch.  This is only the people *not in your connections* that you follow.  So it will show you influencers and personalities you chose to follow.
 
 <figure><img src="https://github.com/user-attachments/assets/0fa5e43b-332e-4206-bce1-0dd462509b60" alt="a dog pooping linkedin post - no thanks!" width="400"/><figcaption><em><br/>"You are not following anyone on Linkedin"</em></figcaption></figure>
 
