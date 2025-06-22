@@ -5,7 +5,7 @@
 
 Have you ever dreamt of "factory-refreshing" your LinkedIn feed?  Surprisingly, LinkedIn makes this very difficult.
 
-This project lets you unfollow everybody on LinkedIn. Consider this a factor refresh.  It will unfollow indiscriminetly, so if you have folks you really like (check your `my network` -> `following` view [found here](https://www.linkedin.com/mynetwork/network-manager/people-follow/following/), then make a list of any you will want to re-follow after running this purge.
+This project lets you unfollow everybody on LinkedIn. Consider this a factor refresh.  It will unfollow indiscriminately, so if you have folks you really like (check your `my network` -> `following` view [found here](https://www.linkedin.com/mynetwork/network-manager/people-follow/following/), then make a list of any you will want to re-follow after running this purge.
 
 - [Show me the tl;dr and how to run the code](#tldr)
 - [Explain this project to me, including the back story](#the_story)
@@ -55,7 +55,7 @@ I am about to mark my 20th year on LinkedIn.  It's been an amazing platform for 
 
 Many people got sucked into the idea that more connections was a good thing, a nice ego boost, a status symbol, and—worse case scenario—it seemed pretty innocuous to collect thousands of connections.
 
-I used to be quite selective in terms of who I connected with on LinkedIn.  Then one day, I was talking to Pete Hunt, the CEO of Dagster Labs, who casually said "*I just mash the 'accept' button, and reject anybody who becomes a pain in the ass.*"  Fair enough, I thought, it seemed efficient. So I adopted that approach, accepting evey salesperson's, recruiter's, job applicant's connection request.  Surpassing 3,000 connections gave me some sense of validation.  But my feed became increasingly painful to watch.
+I used to be quite selective in terms of who I connected with on LinkedIn.  Then one day, I was talking to Pete Hunt, the CEO of Dagster Labs, who casually said "*I just mash the 'accept' button, and reject anybody who becomes a pain in the ass.*"  Fair enough, I thought, it seemed efficient. So I adopted that approach, accepting every salesperson's, recruiter's, job applicant's connection request.  Surpassing 3,000 connections gave me some sense of validation.  But my feed became increasingly painful to watch.
 
 In the last few years, we have seen LinkedIn evolve into much more of a social network than a professional forum, right down to the short-form TikTok videos and desperate wannabe influencer tactics that plague many other platforms. This must have worked for the LinkedIn management team, as they have leaned in hard to make the whole experience way more 'social'.
 
