@@ -55,6 +55,10 @@ I used to be quite selective in terms of who I connected with on LinkedIn.  Then
 
 In the last few years, we have seen LinkedIn evolve into much more of a social network than a professional forum, right down to the short-form TikTok videos and desperate wannabe influencer tactics that plague many other platforms. This must have worked for the LinkedIn management team, as they have leaned in hard to make the whole experience way more 'social'.
 
+![unwanted-video](https://github.com/user-attachments/assets/86abef39-e13a-4d03-a09b-544891dc4534)
+
+*Some LinkedIn posts I could do without...*
+
 When LinkedIn leaned in to the Social Media aspect of the platform, they made each and every person you connect with somebody you follow.  The logic here is simple:
 - People you are connected with are people you can message, and show up in your search
 - People you follow are the ones who's activities on LinkedIn show up in your feed.
@@ -62,6 +66,9 @@ When LinkedIn leaned in to the Social Media aspect of the platform, they made ea
 Like many other users, I don't go to LinkedIn for the wedding photos, funny pet videos, and papsy motivational quotes.  It is what it is, but I wanted a way to opt out of following, without losing the connections.  
 
 It turns out, it's not that easy. It's easy to identify who you are connected with and to sever that connection.  But there is no mechanism for mass-unfollowing without affecting the connections.
+
+## What about the "My Network" -> "Following" page?
+Yes, there is a page [found here](https://www.linkedin.com/mynetwork/network-manager/people-follow/following/) which ostentibly shows you all the people you are following.  But there is a catch.  This is only the people *not in your connections* thay you follow.  So it will show you influencers and personalities you chose to follow.
 
 <img src="https://github.com/user-attachments/assets/0fa5e43b-332e-4206-bce1-0dd462509b60" alt="You are not following anyone on Linkedin" width="400"/>
 
@@ -73,6 +80,4 @@ This "unfollow-from-feed" approach will work for folks who have recently posted 
 ## So, we now have a nice clean feed, right?    
 Well, ype, I did for a few days.  And then Linkedin decided that was not acceptable and started to populate my feed with a bunch of `suggested` posts.  But that is fine.  All we need to do if find a few valuable people to follow, opt in to their posts, and our feed will again become a valuable resource for networking and staying connected.
 
-
-![unwanted-video](https://github.com/user-attachments/assets/86abef39-e13a-4d03-a09b-544891dc4534)
 
