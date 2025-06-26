@@ -34,7 +34,7 @@ So you have now taken a good chunk of followers off your list.  The best way to 
 
 ### Unfollow from the feed
 
-The second script (found in `li-unfollow-from-feed.js`) will take care of this.  Just navigate to [your feed page](https://www.linkedin.com/feed/) and repeat the process above (open the developer tools, navigate to the console tab, paste in the code, press `enter`).  Let it run for a while, then shut down the tab.
+The second script (found in `li-unfollow-from-feed.js`) will take care of this.  Just navigate to [your feed page](https://www.linkedin.com/feed/) and repeat the process above (open the developer tools, navigate to the console tab, paste in the code from the `li-unfollow-from-feed.js` file, press `enter`).  Let it run for a while, then shut down the tab.
 
 This will clear out all the most active people, but new folks will pop up over time (people will only pop up in your feed when they post or react to a post). For that purpose, you can create a 'Bookmarklet' (essentially a bookmark that acts as a function call).  See the `li-unfollow-from-feed-bookmarklet.js` file.  You just have to drop this into the `URL` field of a new bookmark, then click on that bookmark when you have your LinkedIn feed page open.
 
