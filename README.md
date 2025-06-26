@@ -5,7 +5,7 @@
 
 Have you ever dreamt of "factory-refreshing" your LinkedIn feed?  Surprisingly, LinkedIn makes this very difficult.
 
-This project lets you unfollow everybody on LinkedIn. Consider this a factor refresh.  It will unfollow indiscriminately, so if you have folks you really like (check your `my network` -> `following` view [found here](https://www.linkedin.com/mynetwork/network-manager/people-follow/following/), then make a list of any you will want to re-follow after running this purge.
+This project lets you unfollow everybody on LinkedIn. It will unfollow indiscriminately, so if you have folks you really like (check your `my network` -> `following` view [found here](https://www.linkedin.com/mynetwork/network-manager/people-follow/following/), then make a list of any you will want to re-follow after running this purge.
 
 - [Show me the tl;dr and how to run the code](#tldr)
 - [Explain this project to me, including the back story](#the_story)
